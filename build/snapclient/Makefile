@@ -1,4 +1,4 @@
-VERSION = 0.7.0
+VERSION = 0.15.0
 TARGET  = snapclient
 SHELL = /bin/bash
 
